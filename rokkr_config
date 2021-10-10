@@ -19,8 +19,8 @@
       "showOnlyOpen":false,
           
        "shownativerecycler":false,
-       "shownative":false,
-      "showopenad":false,
+       "shownative":true,
+      "showopenad":true,
       
       "fan": false,
       "snf":"mix",
