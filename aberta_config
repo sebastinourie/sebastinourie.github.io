@@ -19,9 +19,9 @@
       
       "showOnlyOpen":false,
           
-       "shownativerecycler":false,
-       "shownative":false,
-      "showopenad":false,
+       "shownativerecycler":true,
+       "shownative":true,
+      "showopenad":true,
       
       "fan": false,
       "snf":"mix",
@@ -34,14 +34,14 @@
      
      "anticipatefantrouble":false,
      
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-6197831281231281/6102793862",
-        "admb_inters": "ca-app-pub-6197831281231281/9792942657",
-        "admb_native": "ca-app-pub-6197831281231281/2743145117",
-        "admb_openad": "ca-app-pub-6197831281231281/5853697644"
+        "admb_banner": "ca-app-pub-2409951010639430/9183450445",
+        "admb_inters": "ca-app-pub-2409951010639430/8341142063",
+        "admb_native": "ca-app-pub-2409951010639430/7870368776",
+        "admb_openad": "ca-app-pub-2409951010639430/4603123323"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
